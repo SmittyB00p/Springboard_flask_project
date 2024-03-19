@@ -1,2 +1,2 @@
-# Springboard_flask_project
+# Springboard flask project
 Springboard Flask mini-project
